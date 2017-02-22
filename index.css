@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+h1{
+
+font-family: PT Sans Narrow Bold;
+
+font-size: 1.875em;
+
+color: #323232}
+
+h2 {
+
+font-family: PT Sans Narrow Bold;
+
+font-size: 1.5em;
+
+color: #00897f;
+
+uppercase}
+
+
+h3 {
+
+font-family: PT Serif Regular;
+
+font-size: 1em;
+
+line-height: 2em
+
+color: #323232}
+
+
+p {
+
+font-family: PT Serif Regular;
+
+font-size: .875em;
+
+line-height: 1.75em;
+ 
+color: #323232}
+
+
+a {
+
+font-family: PT Serif Bold;
+
+font size: 1em;
+ 
+color: #f26522}
+
+
+/* On devices wider than 660px */
+@media(min-width: 660px) {
+}
+
+/* On devices wider than 940px */
+@media(min-width: 940px) {
+}
